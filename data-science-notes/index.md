@@ -24,8 +24,7 @@ This is an evolving project and it would be most appreciated if you could submit
 
 <p style="font-size:x-large;"> Current Issues </p>
 <div>
-<iframe src="https://azu.github.io/github-issue-widget/?owner=wyattowalsh&repo=data-science-notes&labels=index"
-        allowtransparency="true" frameborder="0" scrolling="0" width="100%" height="50px"></iframe>
+<iframe src="https://azu.github.io/github-issue-widget/?owner=wyattowalsh&repo=data-science-notes&labels=index" allowtransparency="true" frameborder="0" scrolling="0" width="100%" height="50px"></iframe>
 Issue Comment:
 <script src="https://gist.github.com/wyattowalsh/9c35b4ff7fc932b31e2301f5aed035d0.js"></script>
 </div>
